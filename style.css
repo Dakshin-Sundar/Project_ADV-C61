@@ -1,0 +1,104 @@
+#profile {
+    width: 200px;
+    margin-right: 460px;
+    margin-top: 50px;
+    margin-left: 450px;
+}
+
+#about {
+    margin-top: 50px;
+}
+
+#home {
+    background: linear-gradient(#02f3f7 0%, #ff3b05 100%);
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+}
+
+hr {
+    color: black;
+}
+
+#about {
+    text-align: center;
+}
+
+#par {
+    max-width: 220px;
+    margin: 25px auto;
+    font-family: cursive;
+}
+
+.item {
+    float: left;
+    list-style: none;
+    margin: 5px;
+    height: 30px;
+    font-size: 20;
+    color: white;
+}
+
+.menu {
+    margin-left: 320px;
+    position: fixed;
+    background-color: brown;
+}
+
+.item:hover {
+    background-color: black;
+}
+
+.image {
+    margin: 20px;
+    width: 300px;
+    height: 400px;
+}
+
+#My favourite books {
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+#My Inspiration {
+    text-align: center;
+    justify-content: center;
+}
+#Name {
+    color: blue;
+}
+.google_1 {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+#Daddy:hover {
+    transform: scale(1.2);
+}
+#Daddy {
+    transition: transform .2s;
+}
+#about_me {
+    color: blue;
+}
+.mail {
+    color: black;
+}
+#Contacts {
+    background-color: orangered;
+}
+.fa fa-envelope {
+    color:black;
+    margin-top: 200px;
+}
